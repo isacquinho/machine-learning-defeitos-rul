@@ -1,0 +1,25 @@
+# Ambientes e caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+*.pyc
+.DS_Store
+# Dados e saídas pesadas / modelos
+/data/
+/datasets/
+/outputs/
+/results/
+/FD001_RNN_Resultados/
+*.keras
+*.h5
+*.hdf5
+*.joblib
+*.pkl
+*.zip
+# Credenciais locais
+.env
+.env.*
+kaggle.json
+*.pem

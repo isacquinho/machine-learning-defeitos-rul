@@ -1,0 +1,16 @@
+# Dependências utilizadas nos notebooks. Versões exatas não foram congeladas.
+# Para reprodução estrita, registre versões de Python, TensorFlow, SciKeras, CUDA e do runtime original.
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python-headless
+scikit-image
+scikit-learn
+tensorflow
+scikeras
+optuna
+kagglehub
+joblib
+jupyterlab
+ipython
