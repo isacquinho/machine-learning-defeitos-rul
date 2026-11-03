@@ -1,6 +1,6 @@
 # Aprendizado de Máquina aplicado à inspeção industrial e prognóstico de falhas
 
-> **Projeto acadêmico — PPGEP/UFPE**  
+> **Projeto acadêmico (Mestrado) — PPGEP/UFPE**  
 > Três estudos, seis classificadores, otimização de hiperparâmetros e previsão de vida útil remanescente.
 
 Este repositório reúne **notebooks executados, metodologia, resultados, figuras e relatórios técnicos em Markdown**. O conteúdo foi organizado para leitura diretamente no GitHub e para permitir que os experimentos sejam examinados e reproduzidos, respeitando as dependências e o acesso aos datasets originais.
