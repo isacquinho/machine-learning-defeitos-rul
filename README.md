@@ -48,7 +48,6 @@ Este repositório reúne **notebooks executados, metodologia, resultados, figura
 ```text
 .
 ├── README.md
-├── COMO_PUBLICAR.md
 ├── requirements.txt
 ├── docs/
 │   ├── 01-pcb.md
